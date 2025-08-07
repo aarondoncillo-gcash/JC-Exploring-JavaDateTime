@@ -2,7 +2,7 @@
 # Hands-on Lab: Exploring Java StringBuilder
 ## Screenshot of output
 
-Exercise 1: LocalDate and DateTimeFormatter
+### Exercise 1: LocalDate and DateTimeFormatter
 **Code Snippet:**
 ```java
 import java.time.LocalDate;
