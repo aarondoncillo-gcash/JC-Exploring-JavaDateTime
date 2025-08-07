@@ -1,5 +1,5 @@
 # Name: Ronan Aaron Doncillo
-# Hands-on Lab: Exploring Java Date and Time API
+# Hands-on Lab: Working with Java's Date and Time API
 ## Screenshot of output
 
 ### Exercise 1: LocalDate and DateTimeFormatter
